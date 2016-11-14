@@ -6,7 +6,7 @@
 (__/\__/\__/\____/\__/\__/\________________________/\__/\__/\____/\__/\__/\__)
 
 
-Le programme est a compiler via Makefile avec la commande make
+Le programme est à compiler via Makefile avec la commande make
 
 
 
@@ -19,14 +19,14 @@ Execution: ./edt (sans argument)
 
 Le programme va donc ouvrir les fichiers schedule.txt et students.txt
 
-De plus le format de ces fichier est imposé. Il est consultable dans les fichiers students_format.txt et schedule_format.txt
+De plus le format de ces fichiers est imposé. Ils sont consultables dans les fichiers students_format.txt et schedule_format.txt
 
-En cas de non_respect de ses format un message vous indiquera de vous refferrer à ces documents
-
-
+En cas de non-respect du format un message vous indiquera de vous référer à ces documents
 
 
-Coté fonctionnalités le programme permet de detecté les superpositions possibles de cours comme demandé
+
+
+Coté fonctionnalités le programme permet de detecter les superpositions possibles de cours comme demandé
 
 Les messages de sorties (hors erreur) correspondent au mieux à ceux présent dans le sujet.
 
